@@ -22,7 +22,7 @@ public class CalculatorController {
 	
 	@RequestMapping("/")
 	String root() {
-		return "Hello from isika V2";
+		return "Hello from isika V3";
 	}
 	
 	@RequestMapping("/sum")
